@@ -1,7 +1,7 @@
 # Room Monitor – Costeño Beach
 
 ![Room Monitor](2021-06-28.webp)
-
+image taken from hostelworld.com
 This Cloud Function checks the availability of **one specific room** at Costeño Beach (or any other Hostelworld property) and notifies you via e-mail the moment it becomes available.
 
 ## Features
