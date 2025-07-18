@@ -1,5 +1,8 @@
 """Room availability monitor for a single room you want to book.
 
+More info: 
+info@icebergdata.co 
+
 This Cloud Function polls Hostelworld's availability endpoint for a *specific* room
 within a property and sends you an email as soon as that room becomes available.
 
